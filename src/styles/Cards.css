@@ -1,0 +1,13 @@
+.my-button {
+    background-color: rgb(21,119,255);
+    color:white;
+  }
+  .ant-card-head-title{
+    font-size: small;
+    margin: 0;
+  }
+  p{
+    position: relative;
+    bottom:10px;
+  }
+  
